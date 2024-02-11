@@ -1,8 +1,8 @@
 {
-    "name": "tutorialspoint/hello-world",
+    "name": "a2e/hello-world",
     "authors": [
         {
-            "name": "tutorialspoint"
+            "name": "a2e"
         }
     ],
     "require": {},
