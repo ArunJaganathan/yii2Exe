@@ -1,8 +1,8 @@
 {
-    "name": "a2e/hello-world",
+    "name": "a2e_yii2/hello-world",
     "authors": [
         {
-            "name": "a2e"
+            "name": "a2e_yii2"
         }
     ],
     "require": {},
